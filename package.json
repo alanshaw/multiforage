@@ -25,5 +25,13 @@
   },
   "devDependencies": {
     "tape": "^4.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanshaw/multiforage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alanshaw/multiforage/issues"
+  },
+  "homepage": "https://github.com/alanshaw/multiforage#readme"
 }
