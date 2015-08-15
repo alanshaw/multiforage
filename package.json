@@ -1,6 +1,6 @@
 {
   "name": "multiforage",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Utility for localForage to set, get and remove multiple items",
   "main": "index.js",
   "scripts": {
