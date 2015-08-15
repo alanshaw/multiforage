@@ -1,4 +1,4 @@
-# multiForage
+# multiForage [![Build Status](https://travis-ci.org/alanshaw/multiforage.svg?branch=master)](https://travis-ci.org/alanshaw/multiforage) [![Dependency Status](https://david-dm.org/alanshaw/multiforage.svg)](https://david-dm.org/alanshaw/multiforage)
 Utility for localForage to set, get and remove multiple items.
 
 ## Usage
