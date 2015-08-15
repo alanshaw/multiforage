@@ -1,0 +1,29 @@
+{
+  "name": "multiforage",
+  "version": "0.0.0",
+  "description": "Utility for localForage to set, get and remove multiple items",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "keywords": [
+    "localforage",
+    "localstorage",
+    "local",
+    "storage",
+    "websql",
+    "html5",
+    "offline",
+    "indexeddb",
+    "key",
+    "value"
+  ],
+  "author": "Alan Shaw",
+  "license": "ISC",
+  "dependencies": {
+    "async-each": "^0.1.6"
+  },
+  "devDependencies": {
+    "tape": "^4.2.0"
+  }
+}
