@@ -4,7 +4,7 @@
   "description": "Utility for localForage to set, get and remove multiple items",
   "main": "index.js",
   "scripts": {
-    "test": "tape test.js"
+    "test": "standard && tape test.js"
   },
   "keywords": [
     "localforage",
@@ -24,6 +24,7 @@
     "async-each": "^0.1.6"
   },
   "devDependencies": {
+    "standard": "^5.1.0",
     "tape": "^4.2.0"
   },
   "repository": {
